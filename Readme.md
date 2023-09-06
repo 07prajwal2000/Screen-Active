@@ -11,7 +11,7 @@ ScreenActive.exe 4000 teams
 This application does nothing but Maximizes/Minimizes the provided process window within a given time interval. In this way it prevents the MS teams going away status. This trick works prefectly and I've used it personally.
 
 ## TLDR. WATCH THE TUTORIAL
-<video src="video/teams green tutorial.mp4" controls height="350px">
+<video src="https://github.com/07prajwal2000/Screen-Active/raw/master/video/teams%20green%20tutorial.mp4" controls height="350px">
 
 ## To download the Binary I have provided a zip file containing the executable and one bat file, you can either open bat or exe file, your choice. If you don't trust the binary you can always clone the repo and build it yourself using Dotnet 7.0
 
