@@ -6,6 +6,8 @@
 ScreenActive.exe 4000 teams
 # 1st argument - Delay amount 
 # 2nd argument - The process name.
+# OR use help command
+ScreenActive.exe help
 ```
 
 This application does nothing but Maximizes/Minimizes the provided process window within a given time interval. In this way it prevents the MS teams going away status. This trick works prefectly and I've used it personally.
