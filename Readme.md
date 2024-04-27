@@ -1,5 +1,16 @@
 # Make your Microsoft Teams always show Available/Green when you are not in front of the PC
 
+# Updated
+I updated the new code that uses just powershell script.
+## Steps
+- Download only 2 files
+    - `Screen.ps1`
+    - `run.bat`
+- Store them in a single folder.
+- MS Teams must be running (Old version, new version of teams doesn't work).
+- Open the `run.bat` file.
+- That's it 🎉. Go to sleep 😴, play games 🎮 or watch movies 🎬.
+
 ## Just run the application
 (Make sure the MS Teams is running) or You can use any other running application which has a window, you can supply the process name (get the process name from the Task manager), provide the name as 2nd argument to the application using the command prompt or any shell you like.
 ```bash
